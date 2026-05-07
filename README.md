@@ -2,7 +2,7 @@
 
 This repository hosts my GitHub Pages site, which serves as a concise professional portfolio showcasing my approach to analytics, reporting, and operational problem‑solving.
 
-🔗 **Live site:** https://swalkeranalytics.github.io
+**Live site:** https://swalkeranalytics.github.io
 
 ---
 
@@ -24,7 +24,7 @@ A demonstration analytics project built using publicly available NYC Taxi data. 
 
 The focus is on clarity, analytical reasoning, and presenting results in a way that supports interpretation and discussion rather than optimization or prediction.
 
-🔗 Project repository:  
+Project repository:  
 https://github.com/swalkeranalytics/databricks-analytics-sample
 
 ### Power BI Dashboard Design (Training Example)
