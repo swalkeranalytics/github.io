@@ -27,8 +27,13 @@ The focus is on clarity, analytical reasoning, and presenting results in a way t
 Project repository:  
 https://github.com/swalkeranalytics/databricks-analytics-sample
 
-### Power BI Dashboard Design (Training Example)
-A training dashboard created during a structured Power BI learning session to practice data modeling, visual design, and interactive reporting concepts, including KPI layout and usability considerations.
+Power BI Dashboard Design (Training Example)
+
+A training dashboard created during a structured Power BI learning session to practice data modeling, visual design,
+and interactive reporting concepts, including KPI layout and usability considerations.
+
+Project repository:  
+https://github.com/swalkeranalytics/powerbi-dashboard-sample
 
 ---
 
