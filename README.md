@@ -1,124 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Stephanie Walker | Data Analyst</title>
+# Stephanie Walker | Data Analyst
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 40px;
-      line-height: 1.6;
-      color: #333;
-    }
+This repository hosts my GitHub Pages site, which serves as a concise professional portfolio showcasing my approach to analytics, reporting, and operational problem‑solving.
 
-    h1, h2, h3 {
-      color: #111;
-    }
+🔗 **Live site:** https://swalkeranalytics.github.io
 
-    nav {
-      margin-bottom: 30px;
-    }
+---
 
-    nav a {
-      margin-right: 18px;
-      font-weight: bold;
-      color: #0056b3;
-      text-decoration: none;
-    }
+## About
 
-    nav a:hover {
-      text-decoration: underline;
-    }
+I am a Data Analyst focused on manufacturing and operations analytics, with an emphasis on data accuracy, standardized reporting, and practical process insight.
 
-    a {
-      color: #0056b3;
-      text-decoration: none;
-      font-weight: bold;
-    }
+My work centers on turning fragmented or complex data into clear, decision‑ready information that supports execution visibility, reporting governance, and consistent decision‑making. I value structured analysis, clear documentation, and collaboration across technical and non‑technical stakeholders.
 
-    a:hover {
-      text-decoration: underline;
-    }
+---
 
-    .project {
-      margin-bottom: 40px;
-    }
-  </style>
-</head>
+## Sample Analytics Projects
 
-<body>
+All projects referenced on the site use **public, sample, or instructional data only**.  
+No proprietary, employer, or internal data is included.
 
-  <!-- Navigation -->
-  <nav>
-    About
-    Projects
-    Skills
-    Contact
-  </nav>
+### Databricks Analytics Dashboard (Sample Data)
+A demonstration analytics project built using publicly available NYC Taxi data. The project explores aggregation, trend analysis, and dashboard visualization within a Databricks SQL environment.
 
-  <!-- About -->
-  <h1 id="about">Stephanie Walker</h1>
-  <p>
-    Data Analyst focused on manufacturing and operations analytics.
-  </p>
+The focus is on clarity, analytical reasoning, and presenting results in a way that supports interpretation and discussion rather than optimization or prediction.
 
-  <h2>About Me</h2>
-  <p>
-    I support manufacturing, quality, and supply chain execution through accurate data,
-    standardized reporting, and practical process insight. I focus on turning operational
-    data into clear, decision‑ready information while maintaining strong data governance
-    and audit readiness.
-  </p>
+🔗 Project repository:  
+https://github.com/swalkeranalytics/databricks-analytics-sample
 
-  <!-- Projects -->
-  <h2 id="projects">Sample Analytics Projects</h2>
-  <p>
-    All projects referenced below use <strong>public, sample, or instructional data only</strong>.
-    No proprietary, employer, or internal data is included.
-  </p>
+### Power BI Dashboard Design (Training Example)
+A training dashboard created during a structured Power BI learning session to practice data modeling, visual design, and interactive reporting concepts, including KPI layout and usability considerations.
 
-  <div class="project">
-    <h3>Databricks Analytics Dashboard (Sample Data)</h3>
-    <p>
-      Demonstration analytics dashboard built using publicly available NYC Taxi data.
-      This project explores aggregation, trend analysis, and dashboard visualization
-      in a Databricks environment.
-    </p>
-    <p>
-      View Project
-    </p>
-  </div>
+---
 
-  <div class="project">
-    <h3>Power BI Dashboard Design (Training Example)</h3>
-    <p>
-      Training dashboard created during a structured Power BI learning session to practice
-      data modeling, visual design, and interactive reporting concepts, including KPI layout
-      and usability considerations.
-    </p>
-  </div>
+## Skills & Focus Areas
 
-  <!-- Skills -->
-  <h2 id="skills">Skills & Focus Areas</h2>
-  <ul>
-    <li>Power BI (DAX, KPI reporting, dashboard design)</li>
-    <li>Databricks (SQL analytics, sample dashboards)</li>
-    <li>SQL and data validation</li>
-    <li>Manufacturing and operations analytics</li>
-    <li>Reporting standardization and data governance</li>
-    <li>Process improvement and reporting automation</li>
-  </ul>
+- Power BI (DAX, KPI reporting, dashboard design)
+- Databricks (SQL analytics, sample dashboards)
+- SQL and data validation
+- Manufacturing and operations analytics
+- Reporting standardization and data governance
+- Process improvement and reporting automation
 
-  <!-- Contact -->
-  <h2 id="contact">Contact</h2>
-  <p>
-    LinkedIn
-    <br>
-    GitHub
-  </p>
+---
 
-</body>
-</html>
+## Purpose of This Site
+
+This site is intended to:
+
